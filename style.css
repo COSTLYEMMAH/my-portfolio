@@ -201,3 +201,16 @@ h5 {
     border: 2px solid #f9004d;
     cursor: pointer;
 }
+
+.contact-me {
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+}
+.btn{
+    margin-top: 20px;
+}
+.logo{
+    text-align: center;
+    margin: 20px;
+}
